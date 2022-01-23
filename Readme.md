@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Павел Моисеев](https://up.htmlacademy.ru/htmlcss/33/user/1964883).
-* Наставник: `Иван Бессалов`(https://htmlacademy.ru/profile/lvov).
+* Наставник: `Иван Бессалов`(https://htmlacademy.ru/profile/lvov)
 
 ---
 
